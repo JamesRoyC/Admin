@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Admin\Admin\bin\Debug\Admin.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Admin\Admin\bin\Debug\Admin.exe
+c:\users\admin\documents\visual studio 2015\Projects\Admin\Admin\bin\Debug\Admin.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Admin\Admin\obj\Debug\Admin.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Admin\Admin\obj\Debug\Admin.exe
+c:\users\admin\documents\visual studio 2015\Projects\Admin\Admin\obj\Debug\Admin.pdb
